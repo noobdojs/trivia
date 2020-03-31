@@ -1,0 +1,17 @@
+[
+  { "qId": 1, "titulo": "Shorastes?", "alternativas": [
+      {"id": 1, "titulo":"Sai fora men", "correta": false},
+      {"id": 2, "titulo":"Sou sadboi", "correta": true},
+      {"id": 3, "titulo":"queee???", "correta": false}
+    ]},
+  { "qId": 2, "titulo": "Ancap é gente?", "alternativas": [
+      {"id": 1, "titulo": "não!", "correta": true},
+      {"id": 2, "titulo": "não", "correta": false},
+      {"id": 3, "titulo": "Será?", "correta": false}
+    ]},
+  { "qId": 3, "titulo": "Qual o formato da terra?", "alternativas": [
+      {"id": 1, "titulo": "Logico que plana", "correta":false},
+      {"id": 2, "titulo":"Redonda", "correta": false},
+      {"id": 3, "titulo": "Uma tartaruga", "correta": true}
+    ]}
+]
