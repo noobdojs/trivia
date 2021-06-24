@@ -8,4 +8,5 @@ updates:
       timezone: "America/Sao_Paulo"
       day: "monday"
     labels:
-      - "npm dependencies"
+      - "dependencies"
+      - "security update"
